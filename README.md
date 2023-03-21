@@ -23,7 +23,7 @@ python pychatgpt.py
 ```
 
 ## Autor y webs de interés
-* Esta aplicación fue desarrollada por Brais Moure ([MoureDev](https://github.com/mouredev)), en una retramisión en directo desde Twitch.
+- Esta aplicación fue desarrollada por Brais Moure ([MoureDev](https://github.com/mouredev)), en una retramisión en directo desde Twitch.
 - Web [OpenAI](https://platform.openai.com)
 - [ChatGPT API keys](https://platform.openai.com/account/api-keys)
 - Proyecto [Typer](https://typer.tiangolo.com)
